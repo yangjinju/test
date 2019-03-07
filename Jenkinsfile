@@ -38,7 +38,7 @@ pipeline {
             steps {
                 echo "部署中..."
                 // 请在这里放置收集单元测试报告的调用过程，Maven tomcat7 插件示例：mvn tomcat7:deploy
-                echo "部署完成"
+                echo "部署完成222"
             }
         }
     }
